@@ -1,0 +1,14 @@
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\EraDaPedra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\EraDaPedra.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\EraDaPedra.AssemblyInfo.cs
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\EraDaPedra.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\bin\Debug\net9.0\EraDaPedra.exe
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\bin\Debug\net9.0\EraDaPedra.deps.json
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\bin\Debug\net9.0\EraDaPedra.runtimeconfig.json
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\bin\Debug\net9.0\EraDaPedra.dll
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\bin\Debug\net9.0\EraDaPedra.pdb
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\EraDaPedra.dll
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\refint\EraDaPedra.dll
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\EraDaPedra.pdb
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\EraDaPedra.genruntimeconfig.cache
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\ref\EraDaPedra.dll
