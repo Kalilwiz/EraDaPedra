@@ -12,3 +12,4 @@ C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\re
 C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\EraDaPedra.pdb
 C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\EraDaPedra.genruntimeconfig.cache
 C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\ref\EraDaPedra.dll
+C:\Users\fic\Documents\New folder\FerramentasBoas\EraDaPedra\obj\Debug\net9.0\EraDaPedra.sourcelink.json
